@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "Java"
+        },
+        {
+            "path": ".vscode"
+        },
+        {
+            "path": "C#"
+        },
+        {
+            "path": "JS"
+        },
+        {
+            "path": "PHP"
+        },
+        {
+            "path": "Python"
+        }
+    ]
+}

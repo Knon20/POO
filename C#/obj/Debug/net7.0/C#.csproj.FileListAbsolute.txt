@@ -1,0 +1,15 @@
+C:\platzi\CursoPOOUber\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\platzi\CursoPOOUber\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\platzi\CursoPOOUber\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\platzi\CursoPOOUber\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\platzi\CursoPOOUber\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+C:\platzi\CursoPOOUber\C#\bin\Debug\net7.0\C#.exe
+C:\platzi\CursoPOOUber\C#\bin\Debug\net7.0\C#.deps.json
+C:\platzi\CursoPOOUber\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+C:\platzi\CursoPOOUber\C#\bin\Debug\net7.0\C#.dll
+C:\platzi\CursoPOOUber\C#\bin\Debug\net7.0\C#.pdb
+C:\platzi\CursoPOOUber\C#\obj\Debug\net7.0\C#.dll
+C:\platzi\CursoPOOUber\C#\obj\Debug\net7.0\refint\C#.dll
+C:\platzi\CursoPOOUber\C#\obj\Debug\net7.0\C#.pdb
+C:\platzi\CursoPOOUber\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+C:\platzi\CursoPOOUber\C#\obj\Debug\net7.0\ref\C#.dll
